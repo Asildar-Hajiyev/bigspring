@@ -3,8 +3,8 @@ import { FaArrowRightLong } from "react-icons/fa6";
 
 function Section4() {
   return (
-    <section className="bg-blue-100">
-      <div className="container mx-auto flex items-center justify-between my-4 p-2">
+    <section className="bg-blue-100 p-2 pt-10 ">
+      <div className="container mx-auto flex items-center justify-between my-4">
         <img className="w-[40%]" src={slide1} alt="" />
         <div className="w-full lg:w-[50%] flex flex-col gap-4">
           <h2 className="font-semibold text-2xl sm:text-3xl">
