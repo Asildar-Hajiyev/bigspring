@@ -18,7 +18,7 @@ function Header() {
             <li className="hover:text-blue-600 transition-colors duration-200"><a href="#">FAQ</a></li>
           </ul>
 
-          <button className="hidden md:inline-flex items-center px-5 py-2 rounded-full bg-blue-600 text-white text-sm font-semibold shadow-md hover:bg-blue-700 hover:shadow-lg active:scale-95 transition-all duration-200">
+          <button className="hidden md:inline-flex items-center px-5 py-2 rounded-full bg-[#00ABAA] text-white text-sm font-semibold transition-transform duration-300 hover:scale-105">
             Get Started
           </button>
 
