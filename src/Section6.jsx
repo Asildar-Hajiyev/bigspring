@@ -12,7 +12,7 @@ import "swiper/css/pagination";
 function Section6() {
   return (
      <section className="bg-blue-100 p-2 pt-10 ">
-          <div className="container mx-auto flex items-center justify-between my-4">
+          <div className="container mx-auto px-6 py-10 flex flex-col lg:flex-row items-center justify-between gap-10">
             <div className="w-full lg:w-[45%]">
           <Swiper
             modules={[Pagination, Autoplay]}

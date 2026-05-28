@@ -4,8 +4,8 @@ import { FaArrowRightLong } from "react-icons/fa6";
 function Section4() {
   return (
     <section className="bg-blue-100 p-2 pt-10 ">
-      <div className="container mx-auto flex items-center justify-between my-4">
-        <img className="w-[40%]" src={slide1} alt="" />
+      <div className="container mx-auto px-6 py-10 flex flex-col lg:flex-row items-center justify-between gap-10">
+        <img className="lg:w-[40%] w-[80%] " src={slide1} alt="" />
         <div className="w-full lg:w-[50%] flex flex-col gap-4">
           <h2 className="font-semibold text-2xl sm:text-3xl">
             It is a privately owned Information and cyber security company
