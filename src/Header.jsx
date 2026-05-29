@@ -11,18 +11,18 @@ function Header() {
           </a>
 
           <ul className="hidden md:flex items-center gap-8 text-sm font-medium text-gray-600">
-            <li className="hover:text-blue-600 transition-colors duration-200"><a href="#">Home</a></li>
-            <li className="hover:text-blue-600 transition-colors duration-200"><a href="#">Blog</a></li>
-            <li className="hover:text-blue-600 transition-colors duration-200"><a href="#">Pricing</a></li>
-            <li className="hover:text-blue-600 transition-colors duration-200"><a href="#">Contact</a></li>
-            <li className="hover:text-blue-600 transition-colors duration-200"><a href="#">FAQ</a></li>
+            <li className="hover:text-[#00ABAA] transition-colors duration-200"><a href="#">Home</a></li>
+            <li className="hover:text-[#00ABAA] transition-colors duration-200"><a href="#">Blog</a></li>
+            <li className="hover:text-[#00ABAA] transition-colors duration-200"><a href="#">Pricing</a></li>
+            <li className="hover:text-[#00ABAA] transition-colors duration-200"><a href="#">Contact</a></li>
+            <li className="hover:text-[#00ABAA] transition-colors duration-200"><a href="#">FAQ</a></li>
           </ul>
 
           <button className="hidden md:inline-flex items-center px-5 py-2 rounded-full bg-[#00ABAA] text-white text-sm font-semibold transition-transform duration-300 hover:scale-105">
             Get Started
           </button>
 
-          <HiBars4 className="md:hidden text-2xl text-gray-700 cursor-pointer hover:text-blue-600 transition-colors duration-200" />
+          <HiBars4 className="md:hidden text-2xl text-gray-700 cursor-pointer hover:text-[#00ABAA] transition-colors duration-200" />
         </div>
       </header>
     </>
