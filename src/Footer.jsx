@@ -52,10 +52,10 @@ function Footer() {
     </div>
 
     <p className="flex flex-wrap items-center justify-center gap-1 border-t border-gray-300 py-4 text-sm text-gray-500 text-center">
-      Designed and Developed By{" "}
-      <a href="#" className="text-[#00ABAA]">Themefisher</a>{" "}
-      • Distributed by{" "}
-      <a href="#" className="text-[#00ABAA]">ThemeWagon</a>
+      Designed and Developed By
+      <a href="#" className="text-gray-400 font-semibold">Themefisher</a>
+      • Distributed by
+      <a href="#" className="text-gray-400 font-semibold">ThemeWagon</a>
     </p>
   </div>
 </footer>
